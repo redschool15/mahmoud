@@ -1,0 +1,15 @@
+C:\Users\redsc\source\repos\simple calculator\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.exe
+C:\Users\redsc\source\repos\simple calculator\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.deps.json
+C:\Users\redsc\source\repos\simple calculator\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.runtimeconfig.json
+C:\Users\redsc\source\repos\simple calculator\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.runtimeconfig.dev.json
+C:\Users\redsc\source\repos\simple calculator\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.dll
+C:\Users\redsc\source\repos\simple calculator\simple calculator\bin\Debug\netcoreapp3.1\simple calculator.pdb
+C:\Users\redsc\source\repos\simple calculator\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.csprojAssemblyReference.cache
+C:\Users\redsc\source\repos\simple calculator\simple calculator\obj\Debug\netcoreapp3.1\simple_calculator.Form1.resources
+C:\Users\redsc\source\repos\simple calculator\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.csproj.GenerateResource.cache
+C:\Users\redsc\source\repos\simple calculator\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.AssemblyInfoInputs.cache
+C:\Users\redsc\source\repos\simple calculator\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.AssemblyInfo.cs
+C:\Users\redsc\source\repos\simple calculator\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\redsc\source\repos\simple calculator\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.dll
+C:\Users\redsc\source\repos\simple calculator\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.pdb
+C:\Users\redsc\source\repos\simple calculator\simple calculator\obj\Debug\netcoreapp3.1\simple calculator.genruntimeconfig.cache
